@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "163118834679",
+    "firebase_url": "https://lunchtime-b1b86.firebaseio.com",
+    "project_id": "lunchtime-b1b86",
+    "storage_bucket": "lunchtime-b1b86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163118834679:android:5b2cc8d1f2b7e2b0",
+        "android_client_info": {
+          "package_name": "com.bicos.lunchtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163118834679-h0ot0brilb2dfptnieltrqqs0pco0rb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bicos.lunchtime",
+            "certificate_hash": "B4C0CD5CF9369041861B961463A5521C27A65588"
+          }
+        },
+        {
+          "client_id": "163118834679-pjftjslo2asqtp90bth9d0s06amtvt28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNhGDJ0wPLFPGamevQPZruqRNrIyFt4Rg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163118834679-pjftjslo2asqtp90bth9d0s06amtvt28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
